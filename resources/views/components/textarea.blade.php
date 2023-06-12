@@ -1,0 +1,2 @@
+
+    <textarea {!! $attributes->merge(['class' => 'focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 form-control ']) !!} id="exampleFormControlTextarea3" rows="4" cols="43">{{ get_org_number()  }}</textarea>
